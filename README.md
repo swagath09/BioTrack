@@ -66,7 +66,6 @@ This deployment hosts only the static frontend interface, allowing users to:
 - HTML
 - CSS
 - JavaScript
-- Tailwind CSS
 
 **Why this stack?**
 
